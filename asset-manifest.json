@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Virtual-Banking-Project/static/css/main.52d2a5db.css",
+    "main.js": "/Virtual-Banking-Project/static/js/main.231b8c43.js",
+    "static/js/787.1513fb98.chunk.js": "/Virtual-Banking-Project/static/js/787.1513fb98.chunk.js",
+    "index.html": "/Virtual-Banking-Project/index.html",
+    "main.52d2a5db.css.map": "/Virtual-Banking-Project/static/css/main.52d2a5db.css.map",
+    "main.231b8c43.js.map": "/Virtual-Banking-Project/static/js/main.231b8c43.js.map",
+    "787.1513fb98.chunk.js.map": "/Virtual-Banking-Project/static/js/787.1513fb98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52d2a5db.css",
+    "static/js/main.231b8c43.js"
+  ]
+}
